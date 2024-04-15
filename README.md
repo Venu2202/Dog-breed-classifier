@@ -26,14 +26,15 @@ Installation
 Here are the steps to set up your development environment:
 
 Clone the GitHub repository:
-bash
-Copy code
 git clone https://github.com/venu2202/dog-breed-classifier.git
+
 Navigate to the project directory:
 cd dog-breed-classifier
+
 Install the required packages:
 pip install -r requirements.txt
 Running the Flask App
+
 To run the Flask application locally:
 python app.py
 This will start the Flask server, typically hosted at http://127.0.0.1:5000 where you can access the web interface to upload dog images and receive breed predictions.
