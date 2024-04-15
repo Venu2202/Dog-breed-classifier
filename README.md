@@ -21,7 +21,6 @@ Follow these instructions to get the project up and running on your local machin
 
 ### Prerequisites
 Ensure you have Python installed and can install packages using pip. Here's how to install the necessary Python packages:
-```bash
 pip install flask tensorflow keras numpy pandas matplotlib
 Installation
 Here are the steps to set up your development environment:
@@ -31,9 +30,7 @@ bash
 Copy code
 git clone https://github.com/venu2202/dog-breed-classifier.git
 Navigate to the project directory:
-bash
-Copy code
-cd dog-breed-classification
+cd dog-breed-classifier
 Install the required packages:
 pip install -r requirements.txt
 Running the Flask App
